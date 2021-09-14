@@ -4,6 +4,10 @@ First we look at the time plot for the ‘cow.dat’ data.
 
 ![cowplot](./img/cowplot.png)
 
+<p align="center">
+Fig 1 Time plot of ‘cow.dat’ data
+</p>
+
 The time plot has no abnormalities aside from the one high value and no evidence of
 changing variance, so there is no need for data transformation.
 
