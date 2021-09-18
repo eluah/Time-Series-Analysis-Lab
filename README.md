@@ -2,9 +2,9 @@
 # 1 “cow.dat” data
 First we look at the time plot for the ‘cow.dat’ data. 
 
-<p align="center">
 ![cowplot](./img/cowplot.png)
 
+<p align="center">
 Fig 1 Time plot of ‘cow.dat’ data
 </p>
 
@@ -13,9 +13,9 @@ changing variance, so there is no need for data transformation.
 
 ## 1.1 Analysis of ACF and PACF
 
-<p align="center">
 ![cowcfplot](./img/cowcfplot.png)
 
+<p align="center">
 Fig 2.1 ACF and PACF of cow
 </p>
 
